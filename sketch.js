@@ -38,7 +38,6 @@ function draw() {
   fill("blue")
   stroke(2)
 
-  text("FOOD REMAINING")
 }
 
 function readStock(data){
